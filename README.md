@@ -5,7 +5,7 @@
 ## **Hi There 👋:hugs:**
 Hello, I am Bernard Opis , a Software Developer based in Marilao Bulacan, Philippines. As a fresh graduate with a strong foundation in computer science, I possess excellent problem-solving and troubleshooting skills. My expertise lies in web technologies, including **HTML**, and **CSS** frameworks like **Tailwind CSS** and **Bootstrap**, as well as modern frameworks like **React.js** and **Next.js**. I have a knack for quickly adapting to new technologies and have practical experience in **JavaScript**, **Java** ,**C**, and **Python** programming languages. I am committed to delivering clean and reusable code. I am currently seeking an opportunity to apply my skills and contribute to the growth of an organization, making a **positive impact** along the way. 
 
-- You can contact me here: #/#contact .
+- You can contact me here: /#contact .
 - My GitHub Contributions in 2023: # .
 
 #### **Connect with Me:**

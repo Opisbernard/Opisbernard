@@ -10,7 +10,7 @@ Hello, I am Bernard Opis , a Software Developer based in Marilao Bulacan, Philip
 
 #### **Connect with Me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](#) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bernard-opis-517a3a268/) 
 
 #### **Languages and Tools:**
 

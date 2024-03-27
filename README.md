@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Opisbernard/output/snake.svg" alt="Snake animation" />
 
 ###
 

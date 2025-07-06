@@ -138,6 +138,6 @@ If you like my work, consider donating 💰 on <a href="https://www.patreon.com/
 ---
 
 <p align="center">
-  <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/overview.svg" alt="GitHub Stats Overview"/>
-  <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/languages.svg" alt="Top Languages"/>
+  <b>Thank you for visiting my profile!</b><br>
+  <em>Let's connect and build something amazing together.</em>
 </p>

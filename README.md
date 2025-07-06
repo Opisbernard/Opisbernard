@@ -45,6 +45,19 @@
 
 ---
 
+## 📊 GitHub Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Opisbernard&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opisbernard&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Opisbernard&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 <details>

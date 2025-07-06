@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Opisbernard/Opisbernard/blob/master/linkedin_banner.png" alt="LinkedIn Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/linkedin_banner.png" alt="LinkedIn Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -8,17 +8,39 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Opisbernard/Opisbernard/blob/master/my_image.jpeg" width="180" alt="Bernard Opis" />
+  <b>Data Scientist | Full Stack Developer | AI Engineer | Community Influencer</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
-  <a href="https://www.patreon.com/YOUR_PATREON"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/patreon_logo.png" width="52" alt="Patreon"/></a>
-  <a href="https://github.com/Opisbernard"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/github-logo.png" width="32" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/notyour.nard"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/facebook.png" width="32" alt="Facebook"/></a>
-  <a href="mailto:bernard112399@gmail.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/google-plus.png" width="32" alt="Gmail"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/twitter.png" width="32" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/instagram.png" width="32" alt="Instagram"/></a>
+  <img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/my_image.jpeg" width="180" alt="Bernard Opis" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://www.patreon.com/YOUR_PATREON"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/patreon_logo.png" width="32" alt="Patreon"/></a>
+  &nbsp;
+  <a href="https://github.com/Opisbernard"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/github-logo.png" width="32" alt="GitHub"/></a>
+  &nbsp;
+  <a href="https://www.facebook.com/notyour.nard"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/facebook.png" width="32" alt="Facebook"/></a>
+  &nbsp;
+  <a href="mailto:bernard112399@gmail.com"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/google-plus.png" width="32" alt="Gmail"/></a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/twitter.png" width="32" alt="Twitter"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/instagram.png" width="32" alt="Instagram"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Opisbernard?label=Follow&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Opisbernard&color=blueviolet" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -101,10 +123,6 @@
 If you like my work, consider donating 💰 on <a href="https://www.patreon.com/YOUR_PATREON">Patreon</a> or starring ⭐ this repo!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Opisbernard&color=blueviolet" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/overview.svg" alt="GitHub Stats Overview"/>

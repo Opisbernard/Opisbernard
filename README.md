@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
-  <a href="https://www.patreon.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/patreon_logo.png" width="52" alt="Patreon"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
+  <a href="https://www.patreon.com/YOUR_PATREON"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/patreon_logo.png" width="52" alt="Patreon"/></a>
   <a href="https://github.com/Opisbernard"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/github-logo.png" width="32" alt="GitHub"/></a>
   <a href="https://www.facebook.com/notyour.nard"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/facebook.png" width="32" alt="Facebook"/></a>
   <a href="mailto:bernard112399@gmail.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/google-plus.png" width="32" alt="Gmail"/></a>
-  <a href="https://twitter.com/"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/twitter.png" width="32" alt="Twitter"/></a>
-  <a href="https://www.instagram.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/instagram.png" width="32" alt="Instagram"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/twitter.png" width="32" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/instagram.png" width="32" alt="Instagram"/></a>
 </p>
-222
+
 ---
 
 ## 👨‍💻 About Me
@@ -80,15 +80,15 @@
 
 <details>
   <summary><strong>Who are you? 👨</strong></summary>
-  <pre>
-A passionate individual who thrives on building end-to-end products that create sustainable and scalable impact.
-  </pre>
+  <blockquote>
+    A passionate individual who thrives on building end-to-end products that create sustainable and scalable impact.
+  </blockquote>
 </details>
 
 <details>
 <summary><strong>What else do you do? 💁‍♂️</strong></summary>
 <ul>
-  <li>I write blogs about personal growth at <a href="#">opisbernard.wordpress.com</a>.</li>
+  <li>I write blogs about personal growth at <a href="https://opisbernard.wordpress.com">opisbernard.wordpress.com</a>.</li>
   <li>Public speaker and AMP member, helping students build character.</li>
   <li>Design and deploy beautiful websites, often in Figma.</li>
 </ul>
@@ -98,7 +98,7 @@ A passionate individual who thrives on building end-to-end products that create 
 
 ## 🤩 Support
 
-If you like my work, consider donating 💰 on <a href="#">Patreon</a> or starring ⭐ this repo!
+If you like my work, consider donating 💰 on <a href="https://www.patreon.com/YOUR_PATREON">Patreon</a> or starring ⭐ this repo!
 
 ---
 

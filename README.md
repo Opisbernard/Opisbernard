@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/bernard-opis-517a3a268/"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://patreon.com/Bernardopis?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/patreon_logo.png" width="32" alt="Patreon"/></a>
   &nbsp;

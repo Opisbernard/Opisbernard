@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/my_image.jpeg" width="180" alt="Bernard Opis" />
+  <img src="https://www.facebook.com/notyour.nard/Opisbernard/Opisbernard/master/my_image.jpeg" width="180" alt="Bernard Opis" />
 </p>
 
 <p align="center">

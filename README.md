@@ -5,14 +5,13 @@
 <img align="right" src="https://github.com/Opisbernard/Opisbernard/blob/master/my_image.jpeg" width="230" alt="Bernard Opis" />
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/youtube-logo.png" width="40" alt="YouTube"/></a>
-  <a href="https://www.patreon.com/devsense"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/patreon_logo.png" width="65" alt="Patreon"/></a>
-  <a href="https://github.com/ashutosh1919"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/github-logo.png" width="40" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/facebook.png" width="40" alt="Facebook"/></a>
-  <a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/google-plus.png" width="40" alt="Gmail"/></a>
-  <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/twitter.png" width="40" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/instagram.png" width="40" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.patreon.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/patreon_logo.png" width="65" alt="Patreon"/></a>
+  <a href="https://github.com/Opisbernard"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/github-logo.png" width="40" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/notyour.nard"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/facebook.png" width="40" alt="Facebook"/></a>
+  <a href="mailto:bernard112399@gmail.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/google-plus.png" width="40" alt="Gmail"/></a>
+  <a href="https://twitter.com/"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/twitter.png" width="40" alt="Twitter"/></a>
+  <a href="https://www.instagram.com"><img src="https://github.com/Opisbernard/Opisbernard/blob/master/logos/instagram.png" width="40" alt="Instagram"/></a>
 </p>
 
 ---
@@ -36,10 +35,10 @@
 <details>
 <summary><strong>Full Stack Developer 🍥</strong></summary>
 <ul>
-  <li><a href="https://github.com/Opisbernard/masterPortfolio">masterPortfolio</a></li>
-  <li><a href="https://github.com/Opisbernard/truvisory">truvisory</a></li>
-  <li><a href="https://github.com/Opisbernard/neurostack">neurostack</a></li>
-  <li><a href="https://github.com/Opisbernard/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+  <li><a href="https://github.com/Opisbernard/">masterPortfolio</a></li>
+  <li><a href="https://github.com/Opisbernard/">truvisory</a></li>
+  <li><a href="https://github.com/Opisbernard/">neurostack</a></li>
+  <li><a href="https://github.com/Opisbernard/">Full-Stack-Web-Development-Course</a></li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
@@ -55,7 +54,7 @@
 <details>
 <summary><strong>Community Influencer 👁️‍🗨️</strong></summary>
 <ul>
-  <li><a href="https://github.com/Opisbernard/truvisory">truvisory</a></li>
+  <li><a href="https://github.com/Opisbernard/">truvisory</a></li>
   <li>Join Me on LinkedIn to see my daily posts.</li>
 </ul>
 </details>

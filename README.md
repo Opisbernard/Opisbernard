@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="https://www.facebook.com/photo/?fbid=2714290815393475&set=pb.100004377493872.-2207520000" width="180" alt="Bernard Opis" />
+  <img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/my_image.jpeg" width="180" alt="Bernard Opis" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/linkedin.png" width="32" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://www.patreon.com/YOUR_PATREON"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/patreon_logo.png" width="32" alt="Patreon"/></a>
+  <a href="https://patreon.com/Bernardopis?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/patreon_logo.png" width="32" alt="Patreon"/></a>
   &nbsp;
   <a href="https://github.com/Opisbernard"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/github-logo.png" width="32" alt="GitHub"/></a>
   &nbsp;
@@ -138,6 +138,6 @@ If you like my work, consider donating 💰 on <a href="https://www.patreon.com/
 ---
 
 <p align="center">
-  <b>Thank you for visiting my profile!</b><br>
-  <em>Let's connect and build something amazing together.</em>
+  <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/overview.svg" alt="GitHub Stats Overview"/>
+  <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/languages.svg" alt="Top Languages"/>
 </p>

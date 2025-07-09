@@ -28,7 +28,7 @@
   &nbsp;
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/twitter.png" width="32" alt="Twitter"/></a>
   &nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/instagram.png" width="32" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/not.m_mood"><img src="https://raw.githubusercontent.com/Opisbernard/Opisbernard/master/logos/instagram.png" width="32" alt="Instagram"/></a>
 </p>
 
 <p align="center">

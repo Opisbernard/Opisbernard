@@ -58,7 +58,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me
 
 <details>
 <summary><strong>Data Scientist 📊</strong></summary>
@@ -140,4 +140,4 @@ If you like my work, consider donating 💰 on <a href="https://www.patreon.com/
 <p align="center">
   <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/overview.svg" alt="GitHub Stats Overview"/>
   <img src="https://github.com/Opisbernard/Opisbernard/blob/master/generated/languages.svg" alt="Top Languages"/>
-</p>
+</p> -->

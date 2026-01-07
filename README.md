@@ -32,7 +32,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Opisbernard?label=Follow&style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Opisbernard&color=blueviolet" alt="Profile Views"/>
 </p>
 
